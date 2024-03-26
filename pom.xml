@@ -30,14 +30,14 @@
   </distributionManagement>
 
   <build>
-    <plugins>
+<!--     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
           <source>3.13.0</source>
           <target>3.13.0</target>
         </configuration>
-      </plugin>
+      </plugin> -->
 
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
